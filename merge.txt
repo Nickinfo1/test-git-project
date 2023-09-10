@@ -1,3 +1,4 @@
 local repository text
 append content
 edited content in merge file
+new line
